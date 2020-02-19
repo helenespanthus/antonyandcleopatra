@@ -12,7 +12,7 @@ section.dramatis, section.play {
   min-width: 750px;
 }
 .playtitle a{
-  text-decoration: none; 
+  text-decoration: none;
   color: white;
 }
 
@@ -44,7 +44,7 @@ font-size: 1.4em;
 
 }
 p.charactername {
-  margin:0 12px 0 40px;
+  margin:0 12px 0 0px;
 
 
 }
@@ -86,7 +86,7 @@ h2.stagedirection {
 
 }
 p.verseline {
-margin: 0 12px 0 40px;
+margin: 0 12px 0 30px;
 
 }
 p.character_listing {
@@ -210,7 +210,6 @@ p.playtitle {
   padding: .6rem;
   color:white;
   font-family: times, sans-serif;
-  font-size:.9em;
   z-index: 20;
   margin:0;
 }
@@ -368,7 +367,7 @@ li:hover a {
 }
 
 p.prose, p.verseline {
-margin: 0 12px 0 60px;
+margin: 0 12px 0 30px;
 }
 
 p.prose {
