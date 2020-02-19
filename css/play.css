@@ -40,7 +40,7 @@ font-size: 1.4em;
 
 }
 p.charactername {
-  margin:0 5px 0 40px;
+  margin:0 12px 0 20px;
 
 
 }
@@ -91,6 +91,7 @@ p.character_listing {
 }
 span.character_role {
 
+
 }
 span.stage_directions_inline {
 }
@@ -137,7 +138,7 @@ a {
 }
 
 nav {
-    font-family: serif;
+    font-family: times, serif;
 }
 
 /* ul {
