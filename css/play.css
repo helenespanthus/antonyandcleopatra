@@ -11,6 +11,9 @@ section.dramatis, section.play {
   margin: 12px auto;
   min-width: 750px;
 }
+.playtitle a{
+  color: white;
+}
 
 
 
