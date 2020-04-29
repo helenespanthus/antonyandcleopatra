@@ -37,7 +37,7 @@ h1.act, h1.dramatishead {
 
 
 
-}
+
 p.character {
 font-size: 1.4em;
 
@@ -74,7 +74,7 @@ h2.scene {
 
 }
 p.song {
-  text-align: centre;
+  text-align:center;
   margin:0;
 
 }
@@ -374,7 +374,7 @@ p.prose {
   margin-bottom: 12px;
 }
 
-}
+
 
 
 img {
@@ -383,8 +383,9 @@ img {
 }
 
 img.portrait {
-width:30%;
+width:50%;
 display:block;
+margin: 12px auto;
 }
 
 .video-box {
@@ -406,5 +407,5 @@ display:block;
 
 
 audio {
-  width:100%;
+  width: 100%;
 }
