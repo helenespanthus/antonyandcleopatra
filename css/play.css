@@ -382,6 +382,11 @@ img {
   display:block;
 }
 
+img.portrait {
+width:60%;
+display:block;
+}
+
 .video-box {
 	position: relative;
 	padding-bottom: 56.25%;
