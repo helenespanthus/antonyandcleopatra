@@ -377,7 +377,10 @@ p.prose {
 }
 
 
-
+img {
+  width:100%;
+  display:block;
+}
 
 .video-box {
 	position: relative;
