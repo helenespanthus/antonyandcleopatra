@@ -7,9 +7,9 @@ body {
   background-color: white;
 }
 section.dramatis, section.play {
-  width: 70%;
+  width: 100%;
   margin: 12px auto;
-  min-width: 750px;
+  max-width: 750px;
 }
 .playtitle a{
   text-decoration: none;
