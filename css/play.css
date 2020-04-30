@@ -309,6 +309,10 @@ ul li:hover > ul, ul li ul:hover {
   display: block;
 }
 
+img {
+width: 100%;
+}
+
 
 /* now follows the media query that displays everyhing correctly on wider screens */
 
